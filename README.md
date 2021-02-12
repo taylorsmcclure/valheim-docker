@@ -96,5 +96,3 @@ This repo has a CLI tool called [Odin] in it! It is used for managing the server
 [Valheim]: https://www.valheimgame.com/
 
 [//]: <> (Image Base Url: https://github.com/mbround18/valheim-docker/blob/main/docs/assets/name.png?raw=true)
-
-1
