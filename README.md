@@ -6,6 +6,7 @@
 
 ## Docker
 
+`docker-compose up -f my-docker-compose.yml -d`
 > [If you are looking for a guide on how to get started click here](https://github.com/mbround18/valheim-docker/discussions/28)
 
 ### Environment Variables
